@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "RossWebGL.data.unityweb",
+"asmCodeUrl": "RossWebGL.asm.code.unityweb",
+"asmMemoryUrl": "RossWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "RossWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
